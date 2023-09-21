@@ -6,13 +6,13 @@
 
 1. **Entrada:** Tu programa debe permitir al usuario ingresar una expresión en notación infija.
 
-2. **Salida:** Luego, tu programa debe imprimir la expresión equivalente en notación prefija.
+2. **Salida:** Tu programa debe imprimir la expresión equivalente en notación prefija.
 
 **Ejemplo:**
 
 | Entrada                        | Salida               |
 |-------------------------------|----------------------|
-| (6-3)*7+9*(9-1*(3+5))         | +*-637*9-9*1+35     |
+| (a+b)*(c-d)+(e/f)        | +*+ab-cd/ef     |
 | x+(y-z)*(w/v)                 | +x*-yz/wv            |
 
 3. Asegúrate de codificar el programa en Java utilizando el editor Geany.
